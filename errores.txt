@@ -1,0 +1,36 @@
+Errores en la Creación de Producto:
+1. No se proporcionó un nombre válido para el producto.
+2. La descripción del producto está vacía o es demasiado corta.
+3. El precio del producto no es un valor válido.
+4. La categoría del producto no fue seleccionada.
+5. La imagen del producto no fue cargada correctamente.
+
+Errores al Agregar al Carrito:
+1. El producto seleccionado no existe.
+2. La cantidad especificada no es válida (debe ser un número positivo).
+3. El producto seleccionado está fuera de stock.
+4. No se pudo agregar el producto al carrito, inténtalo de nuevo más tarde.
+5. Error al calcular el total del carrito.
+
+Errores en la Finalización de la Compra:
+1. La dirección de envío no está completa.
+2. La tarjeta de crédito proporcionada es inválida.
+3. Selecciona un método de pago válido.
+4. No se pudo procesar el pago, inténtalo de nuevo.
+5. Error al confirmar la orden, por favor, contacta al soporte.
+
+Errores Generales:
+1. Problemas de conexión con la base de datos.
+2. Error interno del servidor, inténtalo de nuevo más tarde.
+3. La sesión ha expirado, vuelve a iniciar sesión.
+4. Acceso no autorizado, por favor, inicia sesión como administrador.
+5. El formulario enviado no es válido, verifica los datos ingresados.
+
+Errores en la Administración del Ecommerce:
+1. No se pudo actualizar la información del producto.
+2. Problemas al eliminar el producto, inténtalo de nuevo.
+3. No se pudo cargar la lista de productos, inténtalo más tarde.
+4. Error al gestionar las categorías de productos.
+5. Problemas al procesar la solicitud, contacta al soporte.
+
+
